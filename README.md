@@ -49,4 +49,4 @@ Below is the Portfolio Flowchart
 
 - Name: Alex Waiganjo
 - Github handle: <https://github.com/alex-waiganjo>
-- Portfolio Link : soon
+- Portfolio Link : <https://alex-waiganjo.github.io/alx_capstone_project/>
